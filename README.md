@@ -2,7 +2,7 @@
 
 ## Overview
 
-- The data stored in PineCone is Kitestring's handbook, and the prompt is asking questions regarding the handbook policy
+- The purpose of this project is to understand RAG as a concept. In this example, I am storing Kitestring's handbook in Pinecone as a vector database so that the user can ask questions regarding our handbook's policies and the LLM will use RAG to lookup those answers. 
 
 ## Installation
 
